@@ -1,5 +1,5 @@
 # Bluesh Modified
- A modified Rainmeter skin which originally created by ApexXx-SenSei.
+ A modified Rainmeter skin originally created by ApexXx-SenSei.
  
 ## Preview
 ![](https://i.imgur.com/fVOGLsI.jpg)
