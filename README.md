@@ -16,7 +16,7 @@
     * Done.
     ![](https://i.imgur.com/SSNnRsf.png)
 3. Why my shortcuts aren't working?
-    * In order to make those shortcuts work, you need to change the paths in the `Bluesh\Links\Links.ini` file. (default path is D:\\[folder name])
+    * In order to make those shortcuts work, you need to change the paths in the `Bluesh\Links\Links.ini` file.
     * For example, click the edit button first.
     ![](https://i.imgur.com/qEvH5VZ.png)
     * Change the shortcut name and path to whatever you want.
