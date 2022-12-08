@@ -25,7 +25,7 @@
     ![](https://i.imgur.com/VrLQBnP.png)
     ![](https://i.imgur.com/t5vJ1aw.png)
     * Don't forgot to save and refresh.
-    * Done
+    * Done.
     ![](https://i.imgur.com/cF7yE9g.png)
 4. How to read the second dots?
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
