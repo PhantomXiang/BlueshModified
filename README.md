@@ -42,7 +42,7 @@
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
     * For example, the time in the following imange is 20:35:21.
     ![](https://i.imgur.com/CCKa5DF.png)
-    * It's originally created by FlyingHyrax, you can find the full version (with hours and minutes) here https://www.deviantart.com/flyinghyrax/art/Binary-Clock-266686125.
+    * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax), you can find the full version (with hours and minutes) [here](deviantart.com/flyinghyrax/art/Binary-Clock-266686125).
 
 ### Used Plugins
 1. [RainRGB](https://forum.rainmeter.net/viewtopic.php?f=18&t=6215) by [jsmorley](https://www.deviantart.com/jsmorley)
