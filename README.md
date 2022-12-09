@@ -4,6 +4,11 @@
 ## Preview
 ![](https://i.imgur.com/fVOGLsI.jpg)
 
+## Used Plugins
+1. [RainRGB](https://forum.rainmeter.net/viewtopic.php?f=18&t=6215) by [jsmorley](https://www.deviantart.com/jsmorley)
+2. [FrostedGlass](https://github.com/khanhas/FrostedGlass) by [TheAzack9](github.com/TheAzack9) & [khanhas](https://github.com/khanhas)
+3. [NirCmd](https://www.nirsoft.net/utils/nircmd.html) by [Nir Sofer](nirsoft.net)
+
 ## FAQ
 1. How to change the widget size?
     * Adjust it with scroll wheel.
@@ -43,8 +48,3 @@
     * For example, the time in the following imange is 20:35:21.
     ![](https://i.imgur.com/CCKa5DF.png)
     * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax), you can find the full version (with hours and minutes) [here](deviantart.com/flyinghyrax/art/Binary-Clock-266686125).
-
-### Used Plugins
-1. [RainRGB](https://forum.rainmeter.net/viewtopic.php?f=18&t=6215) by [jsmorley](https://www.deviantart.com/jsmorley)
-2. [FrostedGlass](https://github.com/khanhas/FrostedGlass) by [TheAzack9](github.com/TheAzack9) & [khanhas](https://github.com/khanhas)
-3. [NirCmd](https://www.nirsoft.net/utils/nircmd.html) by [Nir Sofer](nirsoft.net)
