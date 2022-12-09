@@ -1,5 +1,5 @@
 # Bluesh Modified
- A modified Rainmeter skin originally created by ApexXx-SenSei.
+ A modified Rainmeter skin originally created by ![ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei).
  
 ## Preview
 ![](https://i.imgur.com/fVOGLsI.jpg)
@@ -43,3 +43,8 @@
     * For example, the time in the following imange is 20:35:21.
     ![](https://i.imgur.com/CCKa5DF.png)
     * It's originally created by FlyingHyrax, you can find the full version (with hours and minutes) here https://www.deviantart.com/flyinghyrax/art/Binary-Clock-266686125.
+
+### Used Plugins
+![RainRGB](https://forum.rainmeter.net/viewtopic.php?f=18&t=6215) by ![jsmorley](https://www.deviantart.com/jsmorley)
+![FrostedGlass](https://github.com/khanhas/FrostedGlass) by ![TheAzack9](github.com/TheAzack9) & ![khanhas](https://github.com/khanhas)
+![NirCmd](https://www.nirsoft.net/utils/nircmd.html) by ![Nir Sofer](nirsoft.net)
