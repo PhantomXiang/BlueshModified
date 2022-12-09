@@ -16,7 +16,7 @@
     * Done.
     ![](https://i.imgur.com/SSNnRsf.png)
 3. Can I make the sleep button turn off my screen instead of sleeping my computer?
-    * Sure, just change the `[Sleep1]` section in the `Bluesh\Links\Links.ini` file or add a new button with following code.
+    * Sure, just change the `[Sleep1]` section in the `Bluesh\Links\Links.ini` file or add a new button with following code. (May not work on most laptops.)
     ```
     [ScreenOff1]
     Meter=String
