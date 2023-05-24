@@ -48,3 +48,6 @@
     * For example, the time in the following imange is 20:35:21.
     ![](https://i.imgur.com/CCKa5DF.png)
     * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax), you can find the full version (with hours and minutes) [here](deviantart.com/flyinghyrax/art/Binary-Clock-266686125).
+
+## Known Issues
+The Rainmeter AudioLevel plugin prevents the computer from auto sleeping. Sadly, there is nothing I can do.
