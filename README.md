@@ -20,7 +20,13 @@
     ![](https://i.imgur.com/ry3h9l8.png)
     * Done.\
     ![](https://i.imgur.com/SSNnRsf.png)
-3. Can I make the sleep button turn off my screen instead of sleeping my computer?
+3. Why the power buttons aren't showing?
+    * If you are using Windows 10, you will see this:\
+    ![](https://hackmd.io/_uploads/SyfS0NXeJx.png)
+    * Just find `Segoe Fluent Icons` and replace it with `Segoe MDL2 Assets` in the `Bluesh\Links\Links.ini` file.\
+    * Done.\
+    ![](https://hackmd.io/_uploads/H1bUkSXxJl.png)
+4. Can I make the sleep button turn off my screen instead of sleeping my computer?
     * Sure, just change the `[Sleep1]` section in the `Bluesh\Links\Links.ini` file or add a new button with following code. (May not work on most laptops.)
     ```
     [ScreenOff1]
@@ -31,7 +37,7 @@
     Text="[\xEA14]"
     LeftMouseUpAction=[#@#Addons\nircmd.exe monitor off]
     ```
-4. Why my shortcuts aren't working?
+5. Why my shortcuts aren't working?
     * In order to make those shortcuts work, you need to change the paths in the `Bluesh\Links\Links.ini` file.
     * For example, click the edit button first.\
     ![](https://i.imgur.com/qEvH5VZ.png)
@@ -42,8 +48,8 @@
     ![](https://i.imgur.com/t5vJ1aw.png)
     * Don't forgot to save and refresh.
     * Done.\
-    ![](https://i.imgur.com/cF7yE9g.png)
-5. How to read the second dots?
+    ![](https://i.imgur.com/cF7yE9g.png)    
+6. How to read the second dots?
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
     * For example, the time in the following imange is 20:35:21.\
     ![](https://i.imgur.com/CCKa5DF.png)
