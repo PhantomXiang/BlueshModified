@@ -22,10 +22,10 @@
     ![](https://i.imgur.com/SSNnRsf.png)
 3. Why the power buttons aren't showing?
     * If you are using Windows 10, you will see this:\
-    ![](https://hackmd.io/_uploads/SyfS0NXeJx.png)
+    ![](https://hackmd.io/_uploads/H1LN_oXxkl.png)
     * Just find `Segoe Fluent Icons` and replace it with `Segoe MDL2 Assets` in the `Bluesh\Links\Links.ini` file.\
     * Done.\
-    ![](https://hackmd.io/_uploads/H1bUkSXxJl.png)
+    ![](https://hackmd.io/_uploads/SyPIuiQe1x.png)
 4. Can I make the sleep button turn off my screen instead of sleeping my computer?
     * Sure, just change the `[Sleep1]` section in the `Bluesh\Links\Links.ini` file or add a new button with following code. (May not work on most laptops.)
     ```
@@ -53,7 +53,7 @@
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
     * For example, the time in the following imange is 17:49:51.\
     ![](https://hackmd.io/_uploads/H119EsmlJg.png)
-    * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax), you can find the full version (with hours and minutes) [here](deviantart.com/flyinghyrax/art/Binary-Clock-266686125).
+    * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax).
 
 ## Known Issues
 The Rainmeter AudioLevel plugin prevents the computer from auto sleeping. Sadly, there is nothing I can do.
