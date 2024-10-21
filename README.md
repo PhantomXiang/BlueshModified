@@ -2,7 +2,7 @@
  A modified Rainmeter skin originally created by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei).
  
 ## Preview
-![Preview IMG](https://hackmd.io/_uploads/rk09PfZeyg.jpg)
+![Preview IMG](https://hackmd.io/_uploads/B1CnCq7x1x.jpg)
 
 ## Used Plugins
 1. [RainRGB](https://forum.rainmeter.net/viewtopic.php?f=18&t=6215) by [jsmorley](https://www.deviantart.com/jsmorley)
@@ -51,8 +51,8 @@
     ![](https://i.imgur.com/cF7yE9g.png)    
 6. How to read the second dots?
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
-    * For example, the time in the following imange is 20:35:21.\
-    ![](https://i.imgur.com/CCKa5DF.png)
+    * For example, the time in the following imange is 17:49:51.\
+    ![](https://hackmd.io/_uploads/H119EsmlJg.png)
     * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax), you can find the full version (with hours and minutes) [here](deviantart.com/flyinghyrax/art/Binary-Clock-266686125).
 
 ## Known Issues
