@@ -2,7 +2,7 @@
  A modified Rainmeter skin originally created by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei).
  
 ## Preview
-![Preview IMG](https://hackmd.io/_uploads/HJQKmq_ukx.jpg)\
+![Preview IMG](./Screenshots/preview.png)\
 Artwork by [HJ_penguin](https://www.pixiv.net/en/artworks/115226775)
 
 ## Used Plugins
@@ -16,17 +16,17 @@ Artwork by [HJ_penguin](https://www.pixiv.net/en/artworks/115226775)
 2. What does the translate button do?
     * You can change the display name of weekday and month by the translate function.
     * For example,\
-    ![](https://hackmd.io/_uploads/BJG0Lc_dyl.png)
+    ![](./Screenshots/translate_edit.png)
     * Save the file and refresh all skin.\
-    ![](https://hackmd.io/_uploads/r1QdDcOuJg.png)
+    ![](./Screenshots/refresh.png)
     * Done.\
-    ![](https://hackmd.io/_uploads/r10BN5OuJe.png)
+    ![](./Screenshots/translate_done.png)
 3. Why the power buttons aren't showing?
     * If you are using Windows 10, you will see this:\
-    ![](https://hackmd.io/_uploads/H1LN_oXxkl.png)
-    * Just find `Segoe Fluent Icons` and replace it with `Segoe MDL2 Assets` in the `Bluesh\Links\Links.ini` file.\
+    ![](./Screenshots/win10.png)
+    * Just find `Segoe Fluent Icons` and replace it with `Segoe MDL2 Assets` in the `Bluesh\Links\Links.ini` file.
     * Done.\
-    ![](https://hackmd.io/_uploads/SyPIuiQe1x.png)
+    ![](./Screenshots/win10_done.png)
 4. Can I make the sleep button turn off my screen instead of sleeping my computer?
     * Sure, just change the `[Sleep1]` section in the `Bluesh\Links\Links.ini` file or add a new button with following code. (May not work on most laptops.)
     ```
@@ -41,19 +41,19 @@ Artwork by [HJ_penguin](https://www.pixiv.net/en/artworks/115226775)
 5. Why my shortcuts aren't working?
     * In order to make those shortcuts work, you need to change the paths in the `Bluesh\Links\Links.ini` file.
     * For example, click the edit button first.\
-    ![](https://hackmd.io/_uploads/B182wqudyx.png)
+    ![](./Screenshots/edit.png)
     * Change the shortcut name and path to whatever you want.\
-    ![](https://i.imgur.com/RHlkJSE.png)
+    ![](./Screenshots/link_1.png)
     * You can also add a new shortcut by adding these lines.\
-    ![](https://i.imgur.com/VrLQBnP.png)
-    ![](https://i.imgur.com/t5vJ1aw.png)
+    ![](./Screenshots/link_2.png)
+    ![](./Screenshots/link_3.png)
     * Don't forgot to save and refresh.
     * Done.\
-    ![](https://i.imgur.com/cF7yE9g.png)    
+    ![](./Screenshots/link_done.png)    
 6. How to read the second dots?
     * The second dots are displayed in binary-coded sexagesimal, the leftmost bit is the most significant one.
     * For example, the time in the following imange is 17:49:51.\
-    ![](https://hackmd.io/_uploads/H119EsmlJg.png)
+    ![](./Screenshots/binary_clock.png)
     * It's originally created by [FlyingHyrax](https://www.deviantart.com/flyinghyrax).
 
 ## Known Issues
